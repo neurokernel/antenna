@@ -1,5 +1,5 @@
-Neurokernel Retina
-------------------
+Neurokernel Antenna
+-------------------
 
 This project provides the tools for experimentation with the antenna LPU
 in Neurokernel_ framework.
